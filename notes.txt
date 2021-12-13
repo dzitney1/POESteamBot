@@ -1,0 +1,3 @@
+Item text search
+https://gitlab.com/vtopan/path-of-exile-python-3-sample-tools/-/blob/master/poe_watchclip.py
+
